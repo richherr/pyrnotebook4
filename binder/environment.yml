@@ -5,6 +5,7 @@ channels:
   - pytorch
   - pypi
 dependencies:
+  - r-base
   - r-essentials
   - r-tensorflow
   - r-keras
