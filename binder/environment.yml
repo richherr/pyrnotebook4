@@ -21,7 +21,6 @@ dependencies:
   - r-acepack
   - r-rjava
   - r-leaps
-  - r-regnet
   - r-aspect
   - r-sem 
   - r-polycor
