@@ -4,8 +4,6 @@ channels:
   - conda 
   - pytorch
   - pypi
-dependencies:
-  - r-base-3.6.3
   - r-essentials
   - r-tensorflow
   - r-keras
