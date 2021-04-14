@@ -1,0 +1,11 @@
+launcher                Create a launcher on the desktop for Windows
+                        (.bat), Mac (.command), or Linux (.sh)
+lin_launcher            Create a launcher and updater for Linux (.sh)
+mac_launcher            Create a launcher and updater for Mac
+                        (.command)
+radiant                 radiant
+radiant_url             Start radiant but do not open a browser
+radiant_viewer          Launch radiant in the Rstudio viewer
+radiant_window          Launch radiant in an Rstudio window
+win_launcher            Create a launcher and updater for Windows
+                        (.bat)
