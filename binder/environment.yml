@@ -580,3 +580,4 @@ dependencies:
   - oauth2client                  
   - oauthlib      
   - pytorch
+  - latex
