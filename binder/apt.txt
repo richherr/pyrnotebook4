@@ -8,3 +8,4 @@ texlive-bibtex-extra
 texlive-fonts-recommended
 texlive-fonts-extra
 texlive-science
+fonts-lmodern
