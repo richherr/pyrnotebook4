@@ -3,10 +3,11 @@ libnetcdf-dev
 libstdc++6
 libstdc++-8-dev
 gcc-6
-texlive-base
+texlive-full
 texlive-bibtex-extra
 texlive-fonts-recommended
 texlive-fonts-extra
 texlive-science
 tex-common
 fonts-lmodern
+locate
