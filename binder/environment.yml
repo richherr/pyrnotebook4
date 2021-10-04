@@ -580,3 +580,6 @@ dependencies:
   - oauth2client                  
   - oauthlib      
   - pytorch
+  - arviz=0.11.0
+  - mkl-services
+  - pymc3
