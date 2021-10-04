@@ -11,3 +11,4 @@ texlive-science
 tex-common
 fonts-lmodern
 locate
+ca-certificates

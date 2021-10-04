@@ -5,581 +5,581 @@ channels:
   - pytorch
   - pypi
 dependencies:
-  - r-essentials
-  - r-tensorflow
-  - r-keras
-  - r-boot
-  - r-caret
-  - r-learnr
-  - r-rstan
-  - r-brms
-  - r-mlr
-  - r-superlearner
-  - r-cairo
-  - r-forecast
-  - r-autoshiny
-  - r-acepack
-  - r-rjava
-  - r-leaps
-  - r-regnet
-  - r-aspect
-  - r-sem 
-  - r-polycor
-  - r-ggvis
-  - r-relimp
-  - r-sparklyr
-  - r-sparkr
-  - r-sparsemvn
-  - r-sparsesem
-  - r-sparsesvd
-  - r-sparsesvm
-  - r-clustergeneration
-  - r-sautomata
-  - r-arules
-  - r-arulescba
-  - r-arulessequences
-  - r-cloudml
-  - r-dbplyr
-  - r-domino
-  - r-fastrweb
-  - r-h2o
-  - r-leaps
-  - r-onnx
-  - r-plumber
-  - r-pmml
-  - r-pmmltransformations
-  - r-rserve
-  - r-sparklyr
-  - r-sparkr
-  - r-tidytext
-  - r-tidyselect
-  - r-tidyverse
-  - r-tilting
-  - r-xgboost
-  - r-bnlearn
-  - r-bnclassify
-  - r-bnn
-  - r-boolnet
-  - r-ggm
-  - r-ggmridge
-  - r-ggmselect
-  - r-xgobi
-  - r-xml
-  - r-mgcv
-  - r-yhatr
-  - r-bart
-  - r-biglm
-  - r-biglmm
-  - r-bigmap
-  - r-bigml
-  - r-biganalytics
-  - r-bigalgebra
-  - r-bigintegeralgos
-  - r-bigreadr
-  - r-bigreg
-  - r-bigsplines
-  - r-bigtabulate
-  - r-bigtime
-  - r-bigvar
-  - r-boruta
-  - r-corelearn
-  - r-deepnet
-  - r-elasticnet
-  - r-ggm
-  - r-gglasso
-  - r-ggplot2movies
-  - r-ggmselect
-  - r-ggmridge
-  - r-gfa
-  - r-gmmboost
-  - r-gbm
-  - r-gb
-  - r-gcdnet
-  - r-gcd
-  - r-glmpath
-  - r-gamboost
-  - r-gmmboost
-  - r-jousboost
-  - r-l2boost
-  - r-clogitboost
-  - r-compboost
-  - r-deepboost
-  - r-fastadaboost
-  - r-aucrf
-  - r-partitionmap
-  - r-rfinterval
-  - r-rlt
-  - r-softrandomforest
-  - r-spatialml
-  - r-varselrf
-  - r-blockforest
-  - r-imputemissings
-  - r-multivariaterandomforest
-  - r-rfutilities
-  - r-auc
-  - r-eive
-  - r-frbs
-  - r-gaselect
-  - r-genalg
-  - r-glmulti
-  - r-kofnga
-  - r-rgenoud
-  - r-g3viz
-  - r-gadag
-  - r-gafit
-  - r-feather
-  - r-zoocat
-  - r-zoomgrid
-  - r-zipr
-  - r-zipfr
-  - r-zipcode
-  - r-zip
-  - r-zim
-  - r-zillowr
-  - r-zic  
-  - r-zeallot
-  - r-yum
-  - r-yonder
-  - r-ykmeans
-  - r-yesno
-  - r-yasp
-  - r-yaletoolkit
-  - r-yacca
-  - r-xyz
-  - r-xyloplot
-  - r-xwf
-  - r-xtensor
-  - r-xslt
-  - r-xr
-  - r-xptr
-  - r-xplorerr
-  - r-xopen
-  - r-xnomial
-  - r-xmlrpc2
-  - r-xltabr
-  - r-xlsxjars
-  - r-xlsx
-  - r-xlsimple
-  - r-xllim
-  - r-xlconnectjars
-  - r-ximple
-  - r-wtss
-  - r-wsvm
-  - r-wskm
-  - r-wrswor
-  - r-writexls
-  - r-writexl
-  - r-wrightmap
-  - r-wpkde
-  - r-wperm
-  - r-wordnet
-  - r-wordcloud2
-  - r-wordcloud
-  - r-word.alignment
-  - r-woebinning
-  - r-wnnsel
-  - r-wmwssp
-  - r-withr
-  - r-wilcoxcv
-  - r-wikipediar
-  - r-wikifacts
-  - r-widgetframe
-  - r-whoami
-  - r-whitening
-  - r-whereami
-  - r-wheatmap
-  - r-wgteff
-  - r-wfg
-  - r-wfe
-  - r-weightedporttest
-  - r-weighted.desc.stat
-  - r-webutils
-  - r-websocket
-  - r-webshot
-  - r-websearchr
-  - r-webp
-  - r-webex
-  - r-webchem
-  - r-weatherdata
-  - r-wdm
-  - r-wdi
-  - r-wcorr
-  - r-wce
-  - r-waterfall
-  - r-washer
-  - r-walkscoreapi
-  - r-waiter
-  - r-wahc
-  - r-vudc
-  - r-vrtest
-  - r-vrmlgen
-  - r-volesti
-  - r-vocaldia
-  - r-vnm
-  - r-vmask
-  - r-vlmc
-  - r-vita
-  - r-visualize
-  - r-visreg
-  - r-visnetwork
-  - r-visielse
-  - r-visielse
-  - r-viridis
-  - r-vipor
-  - r-viopoints
-  - r-violinmplot
-  - r-vigor
-  - r-vif
-  - r-vgamextra
-  - r-vgamdata
-  - r-vgam
-  - r-verylargeintegers
-  - r-vertexsimilarity
-  - r-vembedr
-  - r-venn
-  - r-venneuler
-  - r-vegetarian
-  - r-vecsets
-  - r-vcov
-  - r-vcd
-  - r-vbsr
-  - r-vbdm
-  - r-varsel
-  - r-vars
-  - r-vared
-  - r-var.etp
-  - r-utility
-  - r-usmap
-  - r-usedist
-  - r-usaboundaries
-  - r-uroot
-  - r-urca
-  - r-upsvarapprox
-  - r-unix
-  - r-univrng
-  - r-unitizer
-  - r-unitedr
-  - r-unitcircle
-  - r-uniisoregression
-  - r-unifed
-  - r-unbalhaar
-  - r-ump
-  - r-ultimixt
-  - r-uiucthemes
-  - r-ui
-  - r-ucminf
-  - r-ucbthesis
-  - r-twostepclogit
-  - r-twosamples
-  - r-twitterwidget
-  - r-twitter
-  - r-twiddler
-  - r-tweedie
-  - r-tvsmiss
-  - r-tvd
-  - r-tutorial
-  - r-turboem
-  - r-tuple
-  - r-tunepareto
-  - r-tufterhandout
-  - r-tufte
-  - r-tuckerr.mmgg
-  - r-tubern
-  - r-tth
-  - r-tstutorial
-  - r-tstutorial
-  - r-tsp
-  - r-tsne
-  - r-tsmodel
-  - r-tseriesmma
-  - r-tsdata
-  - r-tsc
-  - r-tsallisqexp
-  - r-trycatchlog
-  - r-trustoptim
-  - r-trust
-  - r-truncreg
-  - r-truncnorm
-  - r-truncgof
-  - r-trueskill
-  - r-trotter
-  - r-tropicalsparse
-  - r-tropalgebra
-  - r-tripack
-  - r-trimcluster
-  - r-triangulation
-  - r-triangle
-  - r-trendsegmentr
-  - r-treeperm
-  - r-treelet
-  - r-tree
-  - r-treeclust
-  - r-transport
-  - r-transp
-  - r-track
-  - r-tpauc
-  - r-totalcensus
-  - r-tosls
-  - r-topicmodels
-  - r-tokenizers
-  - r-tokenbrowser
-  - r-todor
-  - r-tnet
-  - r-tnc
-  - r-tmvnsim
-  - r-tmvmixnorm
-  - r-tmg
-  - r-tmdb
-  - r-tm.plugin.mail
-  - r-tm.plugin.lexisnexis
-  - r-tm.plugin.factiva
-  - r-tm.plugin.europresse
-  - r-tm.plugin.europresse
-  - r-tm.plugin.dc
-  - r-tm.plugin.alceste
-  - r-tm
-  - r-tls
-  - r-tlmec
-  - r-tlm
-  - r-tlemix
-  - r-tkrplot
-  - r-tkrplotr
-  - r-tkrgl
-  - r-titanic
-  - r-titan
-  - r-tis
-  - r-tippy
-  - r-tiobeindexr
-  - r-tinytex
-  - r-tint
-  - r-timevis
-  - r-timetools
-  - r-timereg
-  - r-timer
-  - r-timeordered
-  - r-timedelay
-  - r-timedate
-  - r-timechange
-  - r-tilting
-  - r-tightclust
-  - r-tiff
-  - r-tiddlywikir
-  - r-tictoc
-  - r-tibbrconnector
-  - r-thsls
-  - r-threewords
-  - r-threeway
-  - r-threejs
-  - r-threeboost
-  - r-thankyoustars
-  - r-tgram
-  - r-tggd
-  - r-tfse
-  - r-tfdatasets
-  - r-textutils
-  - r-tfcox
-  - r-texttinyr
-  - r-textshape
-  - r-textreg
-  - r-textrank
-  - r-textometry
-  - r-texreg
-  - r-testthat
-  - r-testscorer
-  - r-tensr
-  - r-tensorr
-  - r-tempdisagg
-  - r-telegram
-  - r-telegram.bot
-  - r-teereg
-  - r-teachnet
-  - r-teachingsampling
-  - r-teachingdemos
-  - r-tdcor
-  - r-tcltk2
-  - r-tcgaretriever
-  - r-tbd
-  - r-taoteprogramming
-  - r-tangram
-  - r-tabusearch
-  - r-tablerdash
-  - r-tablemonster
-  - r-tablematrix
-  - r-tablehtml
-  - r-table1heatmap
-  - r-table1
-  - r-tablaxlsx
-  - r-syntaxr
-  - r-syncmove
-  - r-synchrony
-  - r-swirl
-  - r-swagger
-  - r-svsweave
-  - r-svmplus
-  - r-svmisc
-  - r-svgui
-  - r-svgpanzoom
-  - r-svdvisual
-  - r-supermds
-  - r-superdiag
-  - r-sue
-  - r-stuart
-  - r-structfdr
-  - r-strucchange
-  - r-stringr
-  - r-stringi
-  - r-stringdist
-  - r-stringb
-  - r-string2adjmatrix
-  - r-stratifiedbalancing
-  - r-stopwords
-  - r-emplik
-  - r-emplik2
-  - r-ac3net
-  - r-aca
-  - r-acceptancesampling
-  - r-acd
-  - r-acfmperiod
-  - r-acopula
-  - r-acp
-  - r-acs
-  - r-acss
-  - r-acss.data
-  - r-ada
-  - r-adagio
-  - r-adaptivesparsity
-  - r-adaptmcmc
-  - r-adaptmt
-  - r-adapttest
-  - r-ade4
-  - r-ade4tkgui
-  - r-adegraphics
-  - r-adequacymodel
-  - r-adgoftest
-  - r-adimpro
-  - r-admisc
-  - r-admit
-  - r-admmnet
-  - r-adpf
-  - r-afc
-  - r-agop
-  - r-agrmt
-  - r-akima
-  - r-akmeans
-  - r-alabama
-  - r-ald
-  - r-algdesign
-  - r-allan
-  - r-allpossiblespellings
-  - r-alluvial
-  - r-alscpc
-  - r-altmeta
-  - r-amap
-  - r-ambient
-  - r-amelia
-  - r-aml
-  - r-amore
-  - r-analyz
-  - r-andrews
-  - r-anovareplication
-  - r-aod
-  - r-aods3
-  - r-apachelogprocessor
-  - r-apfr
-  - r-aplpack
-  - r-apml0
-  - r-apng
-  - r-appestimation
-  - r-apple
-  - r-appliedpredictivemodeling
-  - r-approxmatch
-  - r-apsrtable
-  - r-ar
-  - r-arc
-  - r-arco
-  - r-areaplot
-  - r-argondash
-  - r-argparse
-  - r-argparser
-  - r-arht
-  - r-aricode
-  - r-arm
-  - r-armspp
-  - r-arpr
-  - r-arpobservation
-  - r-arrangements
-  - r-arrapply
-  - r-arrow
-  - r-ars
-  - r-arsenal
-  - r-artiva
-  - r-arulescba
-  - r-arulesnbminer
-  - r-arulessequences
-  - r-arxiv
-  - r-assertable
-  - r-assist
-  - r-assortnet
-  - r-asyk
-  - r-ate
-  - r-atlas
-  - r-auc
-  - r-aucrf
-  - r-auto.pca
-  - r-autoencoder
-  - r-automl
-  - r-autopls
-  - r-av
-  - libgcc
-  - gxx_linux-64
-  - python                          
-  - pip
-  - pandas-profiling
-  - plotly
-  - jupyterlab-plotly-extension
-  - rpy2                         
-  - rsa                           
-  - scikit-image                  
-  - scikit-learn 
-  - sklearn-pandas        
-  - dask
-  - pandas-datareader             
-  - pandas-gbq                    
-  - pandocfilters 
-  - tensorboard                   
-  - tensorboard-plugin-wit        
-  - tensorflow                    
-  - tensorflow-datasets           
-  - tensorflow-estimator          
-  - tensorflow-hub                
-  - tensorflow-metadata           
-  - tensorflow-probability        
-  - torchtext                     
-  - torchvision                   
-  - tornado   
-  - Keras                         
-  - Keras-Preprocessing           
-  - matplotlib                    
-  - matplotlib-venn
-  - plotly
-  - pycountry
-  - scipy                         
-  - scs                           
-  - seaborn
-  - statsmodels==0.12.1
-  - nbconvert                     
-  - nbformat                      
-  - nest-asyncio                  
-  - networkx                      
-  - nibabel                       
-  - nltk                          
-  - notebook                      
-  - numba                         
-  - numexpr                       
-  - numpy                         
-  - oauth2client                  
-  - oauthlib      
-  - pytorch
-  - arviz=0.11.0
-  - mkl-services
-  - pymc3
+  # - r-essentials
+  # - r-tensorflow
+  # - r-keras
+  # - r-boot
+  # - r-caret
+  # - r-learnr
+  # - r-rstan
+  # - r-brms
+  # - r-mlr
+  # - r-superlearner
+  # - r-cairo
+  # - r-forecast
+  # - r-autoshiny
+  # - r-acepack
+  # - r-rjava
+  # - r-leaps
+  # - r-regnet
+  # - r-aspect
+  # - r-sem 
+  # - r-polycor
+  # - r-ggvis
+  # - r-relimp
+  # - r-sparklyr
+  # - r-sparkr
+  # - r-sparsemvn
+  # - r-sparsesem
+  # - r-sparsesvd
+  # - r-sparsesvm
+  # - r-clustergeneration
+  # - r-sautomata
+  # - r-arules
+  # - r-arulescba
+  # - r-arulessequences
+  # - r-cloudml
+  # - r-dbplyr
+  # - r-domino
+  # - r-fastrweb
+  # - r-h2o
+  # - r-leaps
+  # - r-onnx
+  # - r-plumber
+  # - r-pmml
+  # - r-pmmltransformations
+  # - r-rserve
+  # - r-sparklyr
+  # - r-sparkr
+  # - r-tidytext
+  # - r-tidyselect
+  # - r-tidyverse
+  # - r-tilting
+  # - r-xgboost
+  # - r-bnlearn
+  # - r-bnclassify
+  # - r-bnn
+  # - r-boolnet
+  # - r-ggm
+  # - r-ggmridge
+  # - r-ggmselect
+  # - r-xgobi
+  # - r-xml
+  # - r-mgcv
+  # - r-yhatr
+  # - r-bart
+  # - r-biglm
+  # - r-biglmm
+  # - r-bigmap
+  # - r-bigml
+  # - r-biganalytics
+  # - r-bigalgebra
+  # - r-bigintegeralgos
+  # - r-bigreadr
+  # - r-bigreg
+  # - r-bigsplines
+  # - r-bigtabulate
+  # - r-bigtime
+  # - r-bigvar
+  # - r-boruta
+  # - r-corelearn
+  # - r-deepnet
+  # - r-elasticnet
+  # - r-ggm
+  # - r-gglasso
+  # - r-ggplot2movies
+  # - r-ggmselect
+  # - r-ggmridge
+  # - r-gfa
+  # - r-gmmboost
+  # - r-gbm
+  # - r-gb
+  # - r-gcdnet
+  # - r-gcd
+  # - r-glmpath
+  # - r-gamboost
+  # - r-gmmboost
+  # - r-jousboost
+  # - r-l2boost
+  # - r-clogitboost
+  # - r-compboost
+  # - r-deepboost
+  # - r-fastadaboost
+  # - r-aucrf
+  # - r-partitionmap
+  # - r-rfinterval
+  # - r-rlt
+  # - r-softrandomforest
+  # - r-spatialml
+  # - r-varselrf
+  # - r-blockforest
+  # - r-imputemissings
+  # - r-multivariaterandomforest
+  # - r-rfutilities
+  # - r-auc
+  # - r-eive
+  # - r-frbs
+  # - r-gaselect
+  # - r-genalg
+  # - r-glmulti
+  # - r-kofnga
+  # - r-rgenoud
+  # - r-g3viz
+  # - r-gadag
+  # - r-gafit
+  # - r-feather
+  # - r-zoocat
+  # - r-zoomgrid
+  # - r-zipr
+  # - r-zipfr
+  # - r-zipcode
+  # - r-zip
+  # - r-zim
+  # - r-zillowr
+  # - r-zic  
+  # - r-zeallot
+  # - r-yum
+  # - r-yonder
+  # - r-ykmeans
+  # - r-yesno
+  # - r-yasp
+  # - r-yaletoolkit
+  # - r-yacca
+  # - r-xyz
+  # - r-xyloplot
+  # - r-xwf
+  # - r-xtensor
+  # - r-xslt
+  # - r-xr
+  # - r-xptr
+  # - r-xplorerr
+  # - r-xopen
+  # - r-xnomial
+  # - r-xmlrpc2
+  # - r-xltabr
+  # - r-xlsxjars
+  # - r-xlsx
+  # - r-xlsimple
+  # - r-xllim
+  # - r-xlconnectjars
+  # - r-ximple
+  # - r-wtss
+  # - r-wsvm
+  # - r-wskm
+  # - r-wrswor
+  # - r-writexls
+  # - r-writexl
+  # - r-wrightmap
+  # - r-wpkde
+  # - r-wperm
+  # - r-wordnet
+  # - r-wordcloud2
+  # - r-wordcloud
+  # - r-word.alignment
+  # - r-woebinning
+  # - r-wnnsel
+  # - r-wmwssp
+  # - r-withr
+  # - r-wilcoxcv
+  # - r-wikipediar
+  # - r-wikifacts
+  # - r-widgetframe
+  # - r-whoami
+  # - r-whitening
+  # - r-whereami
+  # - r-wheatmap
+  # - r-wgteff
+  # - r-wfg
+  # - r-wfe
+  # - r-weightedporttest
+  # - r-weighted.desc.stat
+  # - r-webutils
+  # - r-websocket
+  # - r-webshot
+  # - r-websearchr
+  # - r-webp
+  # - r-webex
+  # - r-webchem
+  # - r-weatherdata
+  # - r-wdm
+  # - r-wdi
+  # - r-wcorr
+  # - r-wce
+  # - r-waterfall
+  # - r-washer
+  # - r-walkscoreapi
+  # - r-waiter
+  # - r-wahc
+  # - r-vudc
+  # - r-vrtest
+  # - r-vrmlgen
+  # - r-volesti
+  # - r-vocaldia
+  # - r-vnm
+  # - r-vmask
+  # - r-vlmc
+  # - r-vita
+  # - r-visualize
+  # - r-visreg
+  # - r-visnetwork
+  # - r-visielse
+  # - r-visielse
+  # - r-viridis
+  # - r-vipor
+  # - r-viopoints
+  # - r-violinmplot
+  # - r-vigor
+  # - r-vif
+  # - r-vgamextra
+  # - r-vgamdata
+  # - r-vgam
+  # - r-verylargeintegers
+  # - r-vertexsimilarity
+  # - r-vembedr
+  # - r-venn
+  # - r-venneuler
+  # - r-vegetarian
+  # - r-vecsets
+  # - r-vcov
+  # - r-vcd
+  # - r-vbsr
+  # - r-vbdm
+  # - r-varsel
+  # - r-vars
+  # - r-vared
+  # - r-var.etp
+  # - r-utility
+  # - r-usmap
+  # - r-usedist
+  # - r-usaboundaries
+  # - r-uroot
+  # - r-urca
+  # - r-upsvarapprox
+  # - r-unix
+  # - r-univrng
+  # - r-unitizer
+  # - r-unitedr
+  # - r-unitcircle
+  # - r-uniisoregression
+  # - r-unifed
+  # - r-unbalhaar
+  # - r-ump
+  # - r-ultimixt
+  # - r-uiucthemes
+  # - r-ui
+  # - r-ucminf
+  # - r-ucbthesis
+  # - r-twostepclogit
+  # - r-twosamples
+  # - r-twitterwidget
+  # - r-twitter
+  # - r-twiddler
+  # - r-tweedie
+  # - r-tvsmiss
+  # - r-tvd
+  # - r-tutorial
+  # - r-turboem
+  # - r-tuple
+  # - r-tunepareto
+  # - r-tufterhandout
+  # - r-tufte
+  # - r-tuckerr.mmgg
+  # - r-tubern
+  # - r-tth
+  # - r-tstutorial
+  # - r-tstutorial
+  # - r-tsp
+  # - r-tsne
+  # - r-tsmodel
+  # - r-tseriesmma
+  # - r-tsdata
+  # - r-tsc
+  # - r-tsallisqexp
+  # - r-trycatchlog
+  # - r-trustoptim
+  # - r-trust
+  # - r-truncreg
+  # - r-truncnorm
+  # - r-truncgof
+  # - r-trueskill
+  # - r-trotter
+  # - r-tropicalsparse
+  # - r-tropalgebra
+  # - r-tripack
+  # - r-trimcluster
+  # - r-triangulation
+  # - r-triangle
+  # - r-trendsegmentr
+  # - r-treeperm
+  # - r-treelet
+  # - r-tree
+  # - r-treeclust
+  # - r-transport
+  # - r-transp
+  # - r-track
+  # - r-tpauc
+  # - r-totalcensus
+  # - r-tosls
+  # - r-topicmodels
+  # - r-tokenizers
+  # - r-tokenbrowser
+  # - r-todor
+  # - r-tnet
+  # - r-tnc
+  # - r-tmvnsim
+  # - r-tmvmixnorm
+  # - r-tmg
+  # - r-tmdb
+  # - r-tm.plugin.mail
+  # - r-tm.plugin.lexisnexis
+  # - r-tm.plugin.factiva
+  # - r-tm.plugin.europresse
+  # - r-tm.plugin.europresse
+  # - r-tm.plugin.dc
+  # - r-tm.plugin.alceste
+  # - r-tm
+  # - r-tls
+  # - r-tlmec
+  # - r-tlm
+  # - r-tlemix
+  # - r-tkrplot
+  # - r-tkrplotr
+  # - r-tkrgl
+  # - r-titanic
+  # - r-titan
+  # - r-tis
+  # - r-tippy
+  # - r-tiobeindexr
+  # - r-tinytex
+  # - r-tint
+  # - r-timevis
+  # - r-timetools
+  # - r-timereg
+  # - r-timer
+  # - r-timeordered
+  # - r-timedelay
+  # - r-timedate
+  # - r-timechange
+  # - r-tilting
+  # - r-tightclust
+  # - r-tiff
+  # - r-tiddlywikir
+  # - r-tictoc
+  # - r-tibbrconnector
+  # - r-thsls
+  # - r-threewords
+  # - r-threeway
+  # - r-threejs
+  # - r-threeboost
+  # - r-thankyoustars
+  # - r-tgram
+  # - r-tggd
+  # - r-tfse
+  # - r-tfdatasets
+  # - r-textutils
+  # - r-tfcox
+  # - r-texttinyr
+  # - r-textshape
+  # - r-textreg
+  # - r-textrank
+  # - r-textometry
+  # - r-texreg
+  # - r-testthat
+  # - r-testscorer
+  # - r-tensr
+  # - r-tensorr
+  # - r-tempdisagg
+  # - r-telegram
+  # - r-telegram.bot
+  # - r-teereg
+  # - r-teachnet
+  # - r-teachingsampling
+  # - r-teachingdemos
+  # - r-tdcor
+  # - r-tcltk2
+  # - r-tcgaretriever
+  # - r-tbd
+  # - r-taoteprogramming
+  # - r-tangram
+  # - r-tabusearch
+  # - r-tablerdash
+  # - r-tablemonster
+  # - r-tablematrix
+  # - r-tablehtml
+  # - r-table1heatmap
+  # - r-table1
+  # - r-tablaxlsx
+  # - r-syntaxr
+  # - r-syncmove
+  # - r-synchrony
+  # - r-swirl
+  # - r-swagger
+  # - r-svsweave
+  # - r-svmplus
+  # - r-svmisc
+  # - r-svgui
+  # - r-svgpanzoom
+  # - r-svdvisual
+  # - r-supermds
+  # - r-superdiag
+  # - r-sue
+  # - r-stuart
+  # - r-structfdr
+  # - r-strucchange
+  # - r-stringr
+  # - r-stringi
+  # - r-stringdist
+  # - r-stringb
+  # - r-string2adjmatrix
+  # - r-stratifiedbalancing
+  # - r-stopwords
+  # - r-emplik
+  # - r-emplik2
+  # - r-ac3net
+  # - r-aca
+  # - r-acceptancesampling
+  # - r-acd
+  # - r-acfmperiod
+  # - r-acopula
+  # - r-acp
+  # - r-acs
+  # - r-acss
+  # - r-acss.data
+  # - r-ada
+  # - r-adagio
+  # - r-adaptivesparsity
+  # - r-adaptmcmc
+  # - r-adaptmt
+  # - r-adapttest
+  # - r-ade4
+  # - r-ade4tkgui
+  # - r-adegraphics
+  # - r-adequacymodel
+  # - r-adgoftest
+  # - r-adimpro
+  # - r-admisc
+  # - r-admit
+  # - r-admmnet
+  # - r-adpf
+  # - r-afc
+  # - r-agop
+  # - r-agrmt
+  # - r-akima
+  # - r-akmeans
+  # - r-alabama
+  # - r-ald
+  # - r-algdesign
+  # - r-allan
+  # - r-allpossiblespellings
+  # - r-alluvial
+  # - r-alscpc
+  # - r-altmeta
+  # - r-amap
+  # - r-ambient
+  # - r-amelia
+  # - r-aml
+  # - r-amore
+  # - r-analyz
+  # - r-andrews
+  # - r-anovareplication
+  # - r-aod
+  # - r-aods3
+  # - r-apachelogprocessor
+  # - r-apfr
+  # - r-aplpack
+  # - r-apml0
+  # - r-apng
+  # - r-appestimation
+  # - r-apple
+  # - r-appliedpredictivemodeling
+  # - r-approxmatch
+  # - r-apsrtable
+  # - r-ar
+  # - r-arc
+  # - r-arco
+  # - r-areaplot
+  # - r-argondash
+  # - r-argparse
+  # - r-argparser
+  # - r-arht
+  # - r-aricode
+  # - r-arm
+  # - r-armspp
+  # - r-arpr
+  # - r-arpobservation
+  # - r-arrangements
+  # - r-arrapply
+  # - r-arrow
+  # - r-ars
+  # - r-arsenal
+  # - r-artiva
+  # - r-arulescba
+  # - r-arulesnbminer
+  # - r-arulessequences
+  # - r-arxiv
+  # - r-assertable
+  # - r-assist
+  # - r-assortnet
+  # - r-asyk
+  # - r-ate
+  # - r-atlas
+  # - r-auc
+  # - r-aucrf
+  # - r-auto.pca
+  # - r-autoencoder
+  # - r-automl
+  # - r-autopls
+  # - r-av
+  # - libgcc
+  # - gxx_linux-64
+  # - python                          
+  # - pip
+  # - pandas-profiling
+  # - plotly
+  # - jupyterlab-plotly-extension
+  # - rpy2                         
+  # - rsa                           
+  # - scikit-image                  
+  # - scikit-learn 
+  # - sklearn-pandas        
+  # - dask
+  # - pandas-datareader             
+  # - pandas-gbq                    
+  # - pandocfilters 
+  # - tensorboard                   
+  # - tensorboard-plugin-wit        
+  # - tensorflow                    
+  # - tensorflow-datasets           
+  # - tensorflow-estimator          
+  # - tensorflow-hub                
+  # - tensorflow-metadata           
+  # - tensorflow-probability        
+  # - torchtext                     
+  # - torchvision                   
+  # - tornado   
+  # - Keras                         
+  # - Keras-Preprocessing           
+  # - matplotlib                    
+  # - matplotlib-venn
+  # - plotly
+  # - pycountry
+  # - scipy                         
+  # - scs                           
+  # - seaborn
+  # - statsmodels==0.12.1
+  # - nbconvert                     
+  # - nbformat                      
+  # - nest-asyncio                  
+  # - networkx                      
+  # - nibabel                       
+  # - nltk                          
+  # - notebook                      
+  # - numba                         
+  # - numexpr                       
+  # - numpy                         
+  # - oauth2client                  
+  # - oauthlib      
+  # - pytorch
+  # - arviz=0.11.0
+  # - mkl-services
+  # - pymc3
