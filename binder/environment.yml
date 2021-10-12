@@ -6,6 +6,9 @@ channels:
   - pypi
 dependencies:
 - r-essentials
+- r-base
+- lapack
+- blas
 - r-tensorflow
 - r-keras
 - r-boot
