@@ -586,3 +586,4 @@ dependencies:
 - arviz=0.11.0
 - mkl-service
 - pymc3
+- pystan
