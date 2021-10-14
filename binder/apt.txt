@@ -12,3 +12,4 @@ tex-common
 fonts-lmodern
 locate
 ca-certificates
+yacas
