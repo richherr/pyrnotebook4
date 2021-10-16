@@ -551,12 +551,12 @@ dependencies:
 - pandocfilters
 - tensorboard
 - tensorboard-plugin-wit
-- tensorflow==2.6
+- tensorflow
 - tensorflow-datasets
 - tensorflow-estimator
 - tensorflow-hub
 - tensorflow-metadata
-- tensorflow-probability
+- tensorflow-probability==0.12.2
 - torchtext
 - torchvision
 - tornado
