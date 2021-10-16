@@ -589,4 +589,4 @@ dependencies:
 - pystan
 - sympy
 - pip:
-  - Edward
+  - edward
