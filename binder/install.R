@@ -76,3 +76,10 @@ devtools::install_github("benjaminrich/table1")
 devtools::install_github("slowkow/ggrepel")
 remotes::install_github("https://github.com/LamaTe/mlr3shiny.git")
 # ctv::install.views("TimeSeries", repos="https://cloud.r-project.org/")
+#
+#
+# Install conda environment for R 
+library(tensorflow)
+install_tensorflow()
+
+
