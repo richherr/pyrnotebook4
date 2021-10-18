@@ -588,5 +588,9 @@ dependencies:
 - pymc3
 - pystan
 - sympy
+- r-leaflet
+- r-rgeos
+- r-rgdal
+- r-raster
 - pip:
   - edward
