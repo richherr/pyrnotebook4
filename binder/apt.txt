@@ -3,6 +3,10 @@ libnetcdf-dev
 libstdc++6
 libstdc++-8-dev
 libgdal-dev
+binutils 
+libproj-dev
+libgeos++dev
+gdal-bin
 gcc-6
 texlive-full
 texlive-bibtex-extra
