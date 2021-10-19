@@ -593,4 +593,3 @@ dependencies:
 - r-rgdal
 - r-raster
 - pip:
-  - edward
