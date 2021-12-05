@@ -592,6 +592,5 @@ dependencies:
 - r-rgeos
 - r-rgdal
 - r-raster
-- pip
 - pip:
    - jupyter-server-proxy
