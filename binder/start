@@ -1,5 +1,6 @@
 #!/bin/bash
 set -e
 export LD_LIBRARY_PATH=${NB_PYTHON_PREFIX}/lib:${LD_LIBRARY_PATH}
+cd h2o-3.34.0.4
 java -jar h2o.jar
 exec "$@"
