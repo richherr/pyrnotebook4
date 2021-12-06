@@ -74,6 +74,7 @@ devtools::install_github("sachsmc/ggkm")
 devtools::install_github("benjaminrich/table1")
 devtools::install_github("slowkow/ggrepel")
 remotes::install_github("https://github.com/LamaTe/mlr3shiny.git")
+install.packages("h2o", type="source", repos=(c("http://h2o-release.s3.amazonaws.com/h2o/latest_stable_R")))
 # ctv::install.views("TimeSeries", repos="https://cloud.r-project.org/")
 #
 #
