@@ -1,9 +1,6 @@
 #!/bin/bash
 Rscript ./binder/install.R
 echo "Sys.setenv(RETICULATE_MINICONDA_ENABLED='FALSE')" >> /srv/conda/envs/notebook/lib/R/etc/Rprofile.site
-jupyter labextension install @jupyterlab/server-proxy
-jupyter lab build
 jupyter serverextension enable --sys-prefix jupyter_server_proxy
 wget http://h2o-release.s3.amazonaws.com/h2o/rel-zizler/4/h2o-3.34.0.4.zip
 unzip h2o-3.34.0.4.zip
-cd h2o-3.34.0.4
